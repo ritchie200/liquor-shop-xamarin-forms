@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "bldn6v26L9cDZd4mzGfFLDx+ECPhQPqqSzSLENXPeHmtWkl4Nv2hl6iHQ3TEhozFSJGQDWuXSMDvV5wTVDbUMA==",
+  "success": true,
+  "projectFilePath": "/Users/ritchie/Documents/Own/ImpFiles/LiqourShop/liquorShop/XFLiquors/XFLiquors.iOS/XFLiquors.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/ritchie/.nuget/packages/sharpnado.shadows/1.0.0/sharpnado.shadows.1.0.0.nupkg.sha512",
+    "/Users/ritchie/.nuget/packages/system.componentmodel/4.3.0/system.componentmodel.4.3.0.nupkg.sha512",
+    "/Users/ritchie/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/ritchie/.nuget/packages/xamarin.essentials/1.3.1/xamarin.essentials.1.3.1.nupkg.sha512",
+    "/Users/ritchie/.nuget/packages/xamarin.forms/4.6.0.847/xamarin.forms.4.6.0.847.nupkg.sha512",
+    "/Users/ritchie/.nuget/packages/xamarin.forms.pancakeview/1.4.2/xamarin.forms.pancakeview.1.4.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,53 @@
+﻿<Properties StartupConfiguration="{CD28C144-A023-4CDF-BC12-D0E2917D66C4}|Default">
+  <MonoDevelop.Ide.ItemProperties.XFLiquors.Android PreferredExecutionTarget="Android.Nexus_9_API_22" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XFLiquors/XFLiquors/ViewModels/MainPageViewModel.cs">
+    <Files>
+      <File FileName="XFLiquors/XFLiquors/Converters/IsNumberIntConverter.cs" Line="1" Column="1" />
+      <File FileName="XFLiquors/XFLiquors/Interfaces/IStatusBarStyle.cs" Line="1" Column="1" />
+      <File FileName="XFLiquors/XFLiquors/Models/Group.cs" Line="1" Column="1" />
+      <File FileName="XFLiquors/XFLiquors/Models/Product.cs" Line="1" Column="1" />
+      <File FileName="XFLiquors/XFLiquors/Renderers/CustomEntryBorderless.cs" Line="1" Column="1" />
+      <File FileName="XFLiquors/XFLiquors.Android/Renderers/CustomEntryBorderlessRenderer.cs" Line="1" Column="1" />
+      <File FileName="XFLiquors/XFLiquors.iOS/Renderers/CustomEntryBorderlessRenderer.cs" Line="1" Column="1" />
+      <File FileName="XFLiquors/XFLiquors/Views/DiscoverPage.xaml" Line="1" Column="1" />
+      <File FileName="XFLiquors/XFLiquors/ViewModels/DiscoverPageViewModel.cs" Line="1" Column="1" />
+      <File FileName="XFLiquors/XFLiquors/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="XFLiquors/XFLiquors/Views/MainPage.xaml" Line="30" Column="39" />
+      <File FileName="XFLiquors/XFLiquors/ViewModels/MainPageViewModel.cs" Line="13" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XFLiquors" expanded="True">
+            <Node name="XFLiquors" expanded="True">
+              <Node name="Converters" expanded="True" />
+              <Node name="Interfaces" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Renderers" expanded="True" />
+              <Node name="ViewModels" expanded="True">
+                <Node name="MainPageViewModel.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="MainPage.xaml" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+            </Node>
+            <Node name="XFLiquors.Android" expanded="True">
+              <Node name="Renderers" expanded="True" />
+            </Node>
+            <Node name="XFLiquors.iOS" expanded="True">
+              <Node name="Renderers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.ItemProperties.XFLiquors.iOS TriggeredFromHotReload="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.AD0085FC-5D8B-4197-B724-E7CCA21BC2BA" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

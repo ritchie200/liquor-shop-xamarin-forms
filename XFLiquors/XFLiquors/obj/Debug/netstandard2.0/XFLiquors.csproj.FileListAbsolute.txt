@@ -1,0 +1,15 @@
+/Users/ritchie/Documents/Own/ImpFiles/LiqourShop/liquorShop/XFLiquors/XFLiquors/bin/Debug/netstandard2.0/XFLiquors.deps.json
+/Users/ritchie/Documents/Own/ImpFiles/LiqourShop/liquorShop/XFLiquors/XFLiquors/bin/Debug/netstandard2.0/XFLiquors.dll
+/Users/ritchie/Documents/Own/ImpFiles/LiqourShop/liquorShop/XFLiquors/XFLiquors/bin/Debug/netstandard2.0/ref/XFLiquors.dll
+/Users/ritchie/Documents/Own/ImpFiles/LiqourShop/liquorShop/XFLiquors/XFLiquors/bin/Debug/netstandard2.0/XFLiquors.pdb
+/Users/ritchie/Documents/Own/ImpFiles/LiqourShop/liquorShop/XFLiquors/XFLiquors/obj/Debug/netstandard2.0/XFLiquors.csprojAssemblyReference.cache
+/Users/ritchie/Documents/Own/ImpFiles/LiqourShop/liquorShop/XFLiquors/XFLiquors/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/ritchie/Documents/Own/ImpFiles/LiqourShop/liquorShop/XFLiquors/XFLiquors/obj/Debug/netstandard2.0/Views/DiscoverPage.xaml.g.cs
+/Users/ritchie/Documents/Own/ImpFiles/LiqourShop/liquorShop/XFLiquors/XFLiquors/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs
+/Users/ritchie/Documents/Own/ImpFiles/LiqourShop/liquorShop/XFLiquors/XFLiquors/obj/Debug/netstandard2.0/XFLiquors.AssemblyInfoInputs.cache
+/Users/ritchie/Documents/Own/ImpFiles/LiqourShop/liquorShop/XFLiquors/XFLiquors/obj/Debug/netstandard2.0/XFLiquors.AssemblyInfo.cs
+/Users/ritchie/Documents/Own/ImpFiles/LiqourShop/liquorShop/XFLiquors/XFLiquors/obj/Debug/netstandard2.0/XFLiquors.csproj.CoreCompileInputs.cache
+/Users/ritchie/Documents/Own/ImpFiles/LiqourShop/liquorShop/XFLiquors/XFLiquors/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/ritchie/Documents/Own/ImpFiles/LiqourShop/liquorShop/XFLiquors/XFLiquors/obj/Debug/netstandard2.0/XFLiquors.dll
+/Users/ritchie/Documents/Own/ImpFiles/LiqourShop/liquorShop/XFLiquors/XFLiquors/obj/Debug/netstandard2.0/ref/XFLiquors.dll
+/Users/ritchie/Documents/Own/ImpFiles/LiqourShop/liquorShop/XFLiquors/XFLiquors/obj/Debug/netstandard2.0/XFLiquors.pdb
